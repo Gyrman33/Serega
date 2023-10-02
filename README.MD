@@ -12,5 +12,5 @@
 * Выполнил студент: Семакин Сергей
 * Проверил: Литвинов И.В.
 
-$ sdfsdfsd
-$ agaggahah
+        $ sdfsdfsd
+        $ agaggahah
